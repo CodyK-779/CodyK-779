@@ -2,6 +2,8 @@
 
 I'm a self-taught full-stack developer with a strong focus on building performant, modern, and scalable web applications. I work extensively with the Next.js ecosystem, crafting everything from UI components to fully integrated authentication, databases, and server actions.
 
+I approach every project with a product-driven mindset — clean design, efficient code, and real-world usability.
+
 ---
 
 ## 🛠️ Tech Stack
