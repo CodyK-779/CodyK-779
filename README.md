@@ -1,14 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-**CodyK-779/CodyK-779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught full-stack developer passionate about building beautiful, functional web applications.
 
-Here are some ideas to get you started:
+## 🚀 My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*   **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+*   **Backend:** Next.js API Routes, Node.js
+*   **Database & ORM:** PostgreSQL, Prisma
+*   **Authentication:** Better-Auth
+*   **Tools:** Git, Vercel
+
+## 💼 Featured Projects
+
+Here are a few projects I've built recently:
+
+*   [**TaskFlow**](https://github.com/yourname/taskflow) - A full-stack task management app with authentication. [Live Demo](https://taskflow.vercel.app)
+*   [**CineMate**](https://github.com/yourname/cinemate) - A movie discovery app using the TMDB API. [Live Demo](https://cinemate.vercel.app)
+
+## 📫 Let's Connect
+
+I'm always open to chatting about tech, collaborations, or new opportunities!
+*   LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+*   Email: your.email@domain.com
