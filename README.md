@@ -1,7 +1,6 @@
-# 🚀 Hi, I’m Khant Zaw Thein
+# 👋 Hi, I’m Khant Zaw Thein
 
-I'm a **self-taught full-stack developer** specializing in building modern, scalable, and production-ready web applications.  
-I work extensively with **Next.js, React, TypeScript, Tailwind CSS, Prisma, and BetterAuth**, creating full-stack solutions with clean architecture and exceptional user experience.
+I'm a self-taught full-stack developer with a strong focus on building performant, modern, and scalable web applications. I work extensively with the Next.js ecosystem, crafting everything from UI components to fully integrated authentication, databases, and server actions.
 
 ---
 
