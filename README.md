@@ -1,24 +1,82 @@
-# Hi there, I'm [Your Name]! 👋
+# 🚀 Hi, I’m Liam — Full-Stack Developer (Next.js • TypeScript • Prisma)
 
-I'm a self-taught full-stack developer passionate about building beautiful, functional web applications.
+I'm a **self-taught full-stack developer** specializing in building modern, scalable, and production-ready web applications.  
+I work extensively with **Next.js, React, TypeScript, Tailwind CSS, Prisma, and BetterAuth**, creating full-stack solutions with clean architecture and exceptional user experience.
 
-## 🚀 My Tech Stack
+---
 
-*   **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-*   **Backend:** Next.js API Routes, Node.js
-*   **Database & ORM:** PostgreSQL, Prisma
-*   **Authentication:** Better-Auth
-*   **Tools:** Git, Vercel
+## 🛠️ Tech Stack
 
-## 💼 Featured Projects
+**Frontend**
+- Next.js (App Router, Server Components, Server Actions)
+- React 18+
+- TypeScript
+- Tailwind CSS
 
-Here are a few projects I've built recently:
+**Backend**
+- Next.js Server Actions API
+- Prisma ORM (PostgreSQL)
+- BetterAuth (modern authentication)
+- REST & API integrations
 
-*   [**TaskFlow**](https://github.com/yourname/taskflow) - A full-stack task management app with authentication. [Live Demo](https://taskflow.vercel.app)
-*   [**CineMate**](https://github.com/yourname/cinemate) - A movie discovery app using the TMDB API. [Live Demo](https://cinemate.vercel.app)
+**Other Skills**
+- React Query / TanStack Query
+- Zustand / Context
+- Cloudinary (image uploads)
+- Stripe (checkout & billing)
+- Responsive UI/UX & component-driven design
 
-## 📫 Let's Connect
+---
 
-I'm always open to chatting about tech, collaborations, or new opportunities!
-*   LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-*   Email: your.email@domain.com
+## 📌 What I Focus On
+- Building **real, production-level projects**
+- Writing **clean, modern, and maintainable** code
+- Designing **type-safe full-stack workflows**
+- Prioritizing **performance, DX, and UI/UX**
+- Creating reusable components and scalable architectures
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 **Nexora — Full-Stack E-Commerce Platform**
+**Tech:** Next.js 16, Prisma, PostgreSQL, Stripe, Cloudinary, Tailwind, BetterAuth  
+A complete e-commerce system with authentication, product pages, cart system, checkout flow, admin management, and image handling.
+
+---
+
+### 🔐 **AuthKit — Authentication System (BetterAuth)**
+Fully typed authentication boilerplate with secure sessions, OAuth support, protected routes, and plug-and-play utilities for Next.js.
+
+---
+
+### ⚡ **FlowTone UI — Scroll Reveal Animation Library**
+Custom animation + reveal library inspired by modern motion frameworks, built for smooth transitions in React/Next.js applications.
+
+---
+
+## 📚 Currently Learning
+- Scalable backend patterns  
+- Advanced Server Components architecture  
+- Performance optimizations in large Next.js apps  
+- CI/CD and deployment pipelines  
+
+---
+
+## 🎯 Career Goals
+I aim to join a team where I can build **high-quality, user-centered applications**, work with **modern web technologies**, and grow as a **full-stack or frontend engineer**.  
+Despite being self-taught, I approach every project with **professional standards**, production readiness, and long-term maintainability in mind.
+
+---
+
+## 🤝 Let’s Connect
+- **Portfolio:** yourlink.com  
+- **Email:** your@email  
+- **LinkedIn:** linkedin.com/in/yourname  
+- **Twitter:** @yourhandle  
+
+---
+
+## ⭐ Fun Fact
+I build every project around three pillars:  
+**performance, user experience, and developer experience.**
