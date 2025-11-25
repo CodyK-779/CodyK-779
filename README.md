@@ -1,4 +1,4 @@
-# 🚀 Hi, I’m Liam — Full-Stack Developer (Next.js • TypeScript • Prisma)
+# 🚀 Hi, I’m Khant Zaw Thein
 
 I'm a **self-taught full-stack developer** specializing in building modern, scalable, and production-ready web applications.  
 I work extensively with **Next.js, React, TypeScript, Tailwind CSS, Prisma, and BetterAuth**, creating full-stack solutions with clean architecture and exceptional user experience.
