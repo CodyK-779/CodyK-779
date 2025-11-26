@@ -30,21 +30,22 @@ I'm a self-taught full-stack developer with a strong focus on building performan
 
 #
 
-- Advanced Server Components architecture  
-- Performance optimizations in large Next.js apps  
-- CI/CD and deployment pipelines  
+- **Advanced Server Components** architecture for optimal rendering
+- **Performance optimizations** in large-scale Next.js applications  
+- **CI/CD and deployment pipelines** for seamless production workflows
+- **Type-safe full-stack development** with TypeScript and Prisma
+- **Responsive, accessible UI** systems with Tailwind CSS
+- **Secure Authentication** with Better-Auth
 
 ---
 
 ## 🎯 Career Goals
-I aim to join a team where I can build **high-quality, user-centered applications**, work with **modern web technologies**, and grow as a **full-stack or frontend engineer**.  
-Despite being self-taught, I approach every project with **professional standards**, production readiness, and long-term maintainability in mind.
+Seeking to join a **product-driven team** where I can contribute to building **scalable web applications**, collaborate with **experienced engineers**, and grow as a **full-stack developer**. I bring strong fundamentals in **modern web technologies** and a commitment to writing **maintainable, production-ready code**.
 
 ---
 
-## 🤝 Let’s Connect
-- **Portfolio:** [https://portfolio-kzt.vercel.app](https://portfolio-kzt.vercel.app)
+## 📫 Let’s Connect
+- **Portfolio:** [portfolio-kzt.vercel.app](https://portfolio-kzt.vercel.app)
 - **Email:** [khantzawthein779@gmail.com](mailto:khantzawthein779@gmail.com)
-- **Facebook:** [Khant Zaw Thein](https://fsfadfadf)
-- **LinkedIn:** linkedin.com/in/yourname  
-- **Twitter:** @yourhandle  
+- **LinkedIn:** [linkedin.com/in/khant-zaw-thein](https://linkedin.com/in/your-actual-profile)
+- **GitHub:** [github.com/CodyK-779](https://github.com/CodyK-779)
