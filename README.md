@@ -8,7 +8,7 @@ I'm a self-taught full-stack developer with a strong focus on building performan
       <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/khant-zaw-thein/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </p>
 
 ---
@@ -47,5 +47,5 @@ Seeking to join a **product-driven team** where I can contribute to building **s
 ## 📫 Let’s Connect
 - **Portfolio:** [portfolio-kzt.vercel.app](https://portfolio-kzt.vercel.app)
 - **Email:** [khantzawthein779@gmail.com](mailto:khantzawthein779@gmail.com)
-- **LinkedIn:** [linkedin.com/in/khant-zaw-thein](https://linkedin.com/in/your-actual-profile)
+- **LinkedIn:** [linkedin.com/in/khant-zaw-thein](https://www.linkedin.com/in/khant-zaw-thein/)
 - **GitHub:** [github.com/CodyK-779](https://github.com/CodyK-779)
