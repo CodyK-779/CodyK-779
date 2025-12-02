@@ -46,6 +46,6 @@ Seeking to join a **product-driven team** where I can contribute to building **s
 
 ## 📫 Let’s Connect
 - **Portfolio:** [portfolio-kzt.vercel.app](https://portfolio-kzt.vercel.app)
-- **Email:** [khantzawthein779@gmail.com](mailto:khantzawthein779@gmail.com)
+- **Email:** [khantzawthein21@gmail.com](mailto:khantzawthein21@gmail.com)
 - **LinkedIn:** [linkedin.com/in/khant-zaw-thein](https://www.linkedin.com/in/khant-zaw-thein/)
 - **GitHub:** [github.com/CodyK-779](https://github.com/CodyK-779)
